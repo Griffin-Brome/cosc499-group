@@ -7,4 +7,4 @@
 
 
 ### Selection Sort
-- Bubble sort, poor performance sort traditionally used only on small scale sorting projects.
+- Bubble sort, poor performance sort traditionally used only on small scale sorting projects. Sorts by iterating through a list swapping values that are in the wrong order.
