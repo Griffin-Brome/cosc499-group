@@ -5,7 +5,7 @@ Takes an array of integers as input
 """
 
 
-def insertionSort(arr):
+def insertion_sort(arr):
     for i in range(1, len(arr)):
         temp = arr[i]
         while i > 0 and arr[i-1] > temp:
