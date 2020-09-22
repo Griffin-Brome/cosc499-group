@@ -1,4 +1,5 @@
-"""
+def insertion_sort(arr):
+    """
 
 Sorts a list using the insertion sort algorithm
 
@@ -9,7 +10,6 @@ For each element in the unsorted list, swap with the previous element until it i
 """
 
 
-def insertion_sort(arr):
     for i in range(1, len(arr)):
         temp = arr[i]
         while i > 0 and arr[i-1] > temp:
