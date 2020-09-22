@@ -5,6 +5,7 @@
 - Patrick Mahler | 29343597
 - Ren Lin | 35321405
 
+
 ## Algorithms
 
 ### Selection Sort
@@ -18,8 +19,6 @@ Bubble sort, poor performance sort traditionally used only on small scale sortin
 ## Installation
 
 This project requires Python3. To install all other dependancies, run ```pip3 install requirements.txt```
-
-
 
 
 
