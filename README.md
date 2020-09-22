@@ -25,6 +25,7 @@ This algorithm takes an unsorted list as input and produces a sorted list as out
 ## Installation
 
 This project requires Python3. To install all other dependancies, run ```pip3 install requirements.txt```
+Methods in this module can be called using ```$METHOD_sort.py``` and take a list of integers as input.
 
 
 
