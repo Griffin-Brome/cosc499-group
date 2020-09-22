@@ -3,7 +3,7 @@
 Takes an array
 """
 
-def bubbleSort(array):
+def bubble_sort(array):
     for z in range(len(array)-1):
         for x in range(len(array)-1):
             for y in range(len(array)-1):
